@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="vatten" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="filePath" value="vatten/lib/main.dart" />
+    <method v="2" />
+  </configuration>
+</component>

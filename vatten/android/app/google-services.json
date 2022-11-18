@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251980174761",
+    "project_id": "vatten-8a476",
+    "storage_bucket": "vatten-8a476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251980174761:android:6d9cc5a58cd1227759a0b8",
+        "android_client_info": {
+          "package_name": "com.example.vatten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251980174761-fdp205mb4dm2rv6ib60do8u9b0ojqlel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMT3opvGqJ-JnlzdUy3bIzZT60ElAwwhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251980174761-fdp205mb4dm2rv6ib60do8u9b0ojqlel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
