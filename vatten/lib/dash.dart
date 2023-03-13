@@ -4,8 +4,8 @@ import 'dart:html';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:url_launcher/url_launcher_string.dart';
-import 'package:vatten/phone.dart';
-import 'package:vatten/draw.dart';
+
+import 'phone.dart';
 
 class Mydash extends StatefulWidget {
   const Mydash({super.key});

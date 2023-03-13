@@ -2,7 +2,8 @@ import 'dart:html';
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:vatten/phone.dart';
+
+import 'phone.dart';
 
 class Splash extends StatefulWidget {
   const Splash({super.key});

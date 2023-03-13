@@ -3,12 +3,12 @@
 import 'package:firebase_core/firebase_core.dart' show Firebase;
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:vatten/dash.dart';
-import 'package:vatten/draw.dart';
-import 'package:vatten/otp.dart';
-import 'package:vatten/phone.dart';
-import 'package:vatten/readings.dart';
-import 'package:vatten/splash.dart';
+
+import 'draw.dart';
+import 'otp.dart';
+import 'phone.dart';
+import 'readings.dart';
+import 'splash.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
